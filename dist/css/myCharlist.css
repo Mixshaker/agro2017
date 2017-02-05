@@ -1,0 +1,125 @@
+#graf1 .ct-series-a .ct-slice-pie {
+  fill: rgb(24,118,210);
+}
+
+#graf1 .ct-series-b .ct-slice-pie {
+  fill: rgb(142,193,75);
+}
+
+#graf1 .ct-series-c .ct-slice-pie {
+  fill: rgb(84,138,46);
+}
+
+#graf1 .ct-series-d .ct-slice-pie {
+  fill: rgb(252,215,53);
+}
+
+#graf1 .ct-series-e .ct-slice-pie {
+  fill: rgb(3,169,244);
+}
+
+#graf1 .ct-series-f .ct-slice-pie {
+  fill: rgb(255,143,0);
+}
+
+#graf2 .ct-series-a .ct-slice-pie {
+  fill: rgb(24,118,210);
+}
+
+#graf2 .ct-series-b .ct-slice-pie {
+  fill: rgb(255,143,0);
+}
+
+#graf2 .ct-series-c .ct-slice-pie {
+  fill: rgb(206,92,15);
+}
+
+#graf2 .ct-series-d .ct-slice-pie {
+  fill: rgb(84,138,46);
+}
+
+#graf2 .ct-series-e .ct-slice-pie {
+  fill: rgb(255,179,0);
+}
+
+#graf2 .ct-series-f .ct-slice-pie {
+  fill: rgb(142,193,75);
+}
+
+#graf2 .ct-series-g .ct-slice-pie {
+  fill: rgb(252,215,53);
+}
+
+#graf2 .ct-series-h .ct-slice-pie {
+  fill: rgb(45,124,49);
+}
+
+#graf2 .ct-series-i .ct-slice-pie {
+  fill: rgb(3,169,244);
+}
+
+
+.ct-chart-pie .ct-label, .ct-chart-donut .ct-label {
+  font-size: 0.8em;
+}
+
+.grafic-element p{
+  margin-bottom: 8px;
+}
+
+.grafic-element .color {
+  height: 15px;
+  width: 30px;
+  display: inline-block;
+  position: relative;
+  top: 1px;
+}
+
+.grafic-element .text {
+  display: inline-block;
+  font-size: 1.2em;
+}
+
+.grafic-element .number {
+  display: inline-block;
+  font-size: 1.2em;
+}
+
+@media (max-width: 991px) {
+  .grafic-left {
+    float: none !important;
+    width: 100% !important;
+  }
+
+  .grafic-right {
+    float: none !important;
+    width: 100% !important;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
